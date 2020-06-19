@@ -35,21 +35,30 @@ To employ time series forecasting on Zillow dataset.
 ![graph5](./ZILLOW-5.png)
 > Cities DataFrame.
 
+![graph6](./newplot.png)
+> Bay Area Median Single Family Home Prices 1996-2018.
+
+![graph7](./newplot(2).png)
+> Bay Area Median Single Family Home Prices 1996-2017.
+
+![graph8](./newplot(3).png)
+> 30 Year History USA Real Estate Prices (Clusters Colored).
+
 #### Time-series plots:
 
-![graph6](./ZILLOW-6.png)
+![graph9](./ZILLOW-6.png)
 > Autocorrelation plot.
 
-![graph7](./ZILLOW-7.png)
+![graph10](./ZILLOW-7.png)
 > Simple Time-series plot.
 
-![graph8](./ZILLOW-8.png)
+![graph11](./ZILLOW-8.png)
 > Time series forecast using Holt Winters.
 
-![graph9](./ZILLOW-9.png)
+![graph12](./ZILLOW-9.png)
 > Regression Forecast
 
-![graph10](./ZILLOW-10.png)
+![graph13](./ZILLOW-10.png)
 > Regression model predictions.
 
 ### For further information
